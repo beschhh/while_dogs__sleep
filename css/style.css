@@ -1,0 +1,228 @@
+body {
+  background-color: #0F083E;
+  font-family: "Playfair Display", serif;
+  overflow-x: hidden;
+}
+
+.wrapper {
+  width: 100%;
+}
+
+section {
+  position: relative;
+  height: 54.84vw;
+  overflow: hidden;
+}
+
+img {
+  position: absolute;
+  display: block;
+}
+
+h1, h2, p {
+  position: absolute;
+  margin: 0;
+  font-weight: 400;
+  white-space: nowrap;
+}
+
+.block1 {
+  background-color: #FCB2FF;
+}
+
+.dog1 {
+  width: 55.88vw;
+  left: 42.89vw;
+  top: 0;
+}
+
+.title {
+  left: 2.44vw;
+  top: 1.74vw;
+  font-size: 11.16vw;
+  font-weight: 700;
+  line-height: 9.42vw;
+  letter-spacing: -0.78vw;
+  color: #0F083E;
+}
+
+.subtitle {
+  left: 2.53vw;
+  top: 36.09vw;
+  font-size: 2.53vw;
+  line-height: 2.7vw;
+  letter-spacing: 0.04vw;
+  color: #0F083E;
+}
+
+.block2 {
+  background-color: #FC8353;
+}
+
+.photo2 {
+  width: 100vw;
+  left: 0;
+  top: 0;
+}
+
+.top2 {
+  width: 100vw;
+  left: 0;
+  top: 0;
+}
+
+.zapahi {
+  width: 17.7vw;
+  left: 2.53vw;
+  top: 5.06vw;
+}
+
+.chto {
+  width: 35.57vw;
+  left: 58.15vw;
+  top: 10.11vw;
+}
+
+.beg {
+  width: 17.7vw;
+  left: 63.21vw;
+  top: 30.34vw;
+}
+
+.golosa {
+  width: 17.7vw;
+  left: 5.06vw;
+  top: 35.4vw;
+}
+
+.block3 {
+  background-color: #5D7AFB;
+}
+
+.top3 {
+  width: 100vw;
+  left: 0;
+  top: 0;
+}
+
+.miska {
+  width: 34.7vw;
+  left: 0;
+  top: 9.59vw;
+}
+
+.dog3 {
+  width: 30.43vw;
+  left: 38.45vw;
+  top: 12.73vw;
+}
+
+.kost {
+  width: 22.76vw;
+  left: 10.29vw;
+  top: 37.4vw;
+}
+
+.bottom3 {
+  width: 100vw;
+  left: 0;
+  top: 47.25vw;
+}
+
+.text3 {
+  font-size: 2.62vw;
+  line-height: 2.7vw;
+  color: #ffffff;
+}
+
+.text3-1 {
+  left: 72.54vw;
+  top: 18.48vw;
+}
+
+.text3-2 {
+  left: 72.19vw;
+  top: 28.6vw;
+}
+
+.block4 {
+  background-color: #FC8353;
+}
+
+.dog4 {
+  width: 62.07vw;
+  left: 0;
+  top: 0;
+}
+
+.title4 {
+  left: 64.43vw;
+  top: 5.67vw;
+  font-size: 8.37vw;
+  font-weight: 700;
+  line-height: 8.72vw;
+  color: #0F083E;
+}
+
+.block5 {
+  background-color: #FCB2FF;
+}
+
+.bg5 {
+  width: 100vw;
+  left: 0;
+  top: 0;
+}
+
+.logo {
+  width: 8.02vw;
+  left: 46.03vw;
+  top: 47.34vw;
+}
+
+.text5 {
+  right: 10.55vw;
+  top: 11.86vw;
+  font-size: 6.8vw;
+  font-weight: 700;
+  line-height: 6.97vw;
+  letter-spacing: -0.04vw;
+  text-align: right;
+  color: #0F083E;
+}
+
+.footer {
+  position: relative;
+  height: 12.03vw;
+  background-color: #0F083E;
+}
+
+.logo6 {
+  width: 26.59vw;
+  left: 2.7vw;
+  top: 4.1vw;
+}
+
+.phone,
+.mail {
+  position: absolute;
+  right: 16.22vw;
+  font-family: "Inter", sans-serif;
+  font-size: 1.74vw;
+  line-height: 1.57vw;
+  color: #ffffff;
+}
+
+.phone {
+  top: 3.49vw;
+}
+
+.mail {
+  top: 7.15vw;
+}
+
+.tgvk {
+  width: 11.68vw;
+  left: 85.7vw;
+  top: 2.79vw;
+}
